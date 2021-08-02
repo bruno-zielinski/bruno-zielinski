@@ -35,5 +35,5 @@
      target="_blank">
  </a>
   
- ![Snake animation](https://github.com/bruno-zielinski/bruno-zielinski/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
