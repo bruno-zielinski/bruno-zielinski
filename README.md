@@ -1,6 +1,5 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Zielinski</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá eu sou o Bruno Zielinski</h1>
 
 
-- 🌱 I’m currently learning HTML, CSS, JS, PHP
-- 🤔 I’m looking for help with JAVASCRIPT, React, React Native
-- 📫 How to reach me:<br/>E-mail: brunozie26@gmail.com<br/>Discord: BrunoKunBr#8832
+- Hoje trabalho com front-end
+- Estudano React
